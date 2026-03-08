@@ -96,17 +96,21 @@ Example output generated from `audio/podcast.wav`:
 
 ### SRT Output Example
 ```srt
-1
-00:00:00,000 --> 00:00:04,200
-Speaker 0: Morning run, I'm Shazana Moctar with Philip C and Wong Shao Ning.
+6
+00:00:28,020 --> 00:00:29,940
+Speaker 0: Okay Daryl, there's only one place to start.
 
-2
-00:00:04,500 --> 00:00:07,780
-Speaker 0: We're turning our attention to what's happening in the judicial space.
+7
+00:00:30,060 --> 00:00:35,140
+Speaker 0: The Court of Arbitration for Sport has released their verdict on the seven heritage players and it's not a positive one.
 
-3
-00:00:07,980 --> 00:00:18,220
-Speaker 0: Prime Minister Jatusri Anwar Ibrahim is asking for the High Court to stay, that means to put a pause, on a civil lawsuit filed by Muhammad Yusuf Rother who has accused him of sexual assault.
+8
+00:00:36,080 --> 00:00:46,220
+Speaker 1: The cast released a statement last night, confirming that they've partially upheld the appeal by the seven heritage players that were sanctioned by FIFA over the falsified documents.
+
+9
+00:00:46,720 --> 00:00:49,180
+Speaker 1: However, the sanction has been relaxed a little bit.
 ```
 
 ## Citation
